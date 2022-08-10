@@ -1,4 +1,5 @@
-{
+[
+  {
    "firstName": "Joe",
    "lastName": "Jackson",
    "gender": "male",
@@ -7,21 +8,18 @@
        "streetAddress": "101",
        "city": "San Diego",
        "state": "CA"
-   },
-   "phoneNumbers": [
-       { "type": "home", "number": "7349282382" }
-   ],
-
+   }
+  },
+  
+  {
    "firstName": "Tina",
    "lastName": "Abbas",
-   "gender": "Female",
-   "age": 33,
+   "gender": "female",
+   "age": 43,
    "address": {
-       "streetAddress": "333",
-       "city": "Milwaukee",
+       "streetAddress": "454 Sasa Rd.",
+       "city": "Mikwaukee",
        "state": "WI"
-   },
-   "phoneNumbers": [
-       { "type": "home", "number": "4145554454" }
-   ]
-}
+   }
+   }
+]
