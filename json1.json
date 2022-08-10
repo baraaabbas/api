@@ -10,5 +10,18 @@
    },
    "phoneNumbers": [
        { "type": "home", "number": "7349282382" }
+   ],
+
+   "firstName": "Tina",
+   "lastName": "Abbas",
+   "gender": "Female",
+   "age": 33,
+   "address": {
+       "streetAddress": "333",
+       "city": "Milwaukee",
+       "state": "WI"
+   },
+   "phoneNumbers": [
+       { "type": "home", "number": "4145554454" }
    ]
 }
