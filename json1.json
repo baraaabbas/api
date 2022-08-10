@@ -5,7 +5,7 @@
    "gender": "male",
    "age": 28,
    "address": {
-       "streetAddress": "101",
+       "streetAddress": "101 Airborn st",
        "city": "San Diego",
        "state": "CA"
    }
