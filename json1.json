@@ -9,10 +9,10 @@
        "state": "CA"
    },
    
-
-   "phoneNumbers": [
+    "phoneNumbers": [
        { "type": "home", "number": "7349282382" }
    
+ {
    "firstName": "Ben",
    "lastName": "Taha",
    "gender": "female",
@@ -26,3 +26,4 @@
        { "type": "home", "number": "4145588585" }
    
 }
+      }
