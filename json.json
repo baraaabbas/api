@@ -2,7 +2,7 @@
 "Name": "Testing",
 "Mobile": 12345678,
 "Boolean": true,
-"Pets": ["Dog", "cat"],
+"Pets": ["Dog", "cat", "human"],
 "Address": {
 "Permanent address": "USA",
 "current Address": "IQ"
