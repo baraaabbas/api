@@ -3,7 +3,7 @@
    "firstName": "Joe",
    "lastName": "Jackson",
    "gender": "male",
-   "age": 58,
+   "age": 52,
    "address": {
        "streetAddress": "101 Airborn st",
        "city": "San Diego",
